@@ -1,0 +1,6 @@
+{
+  "/contact/*": {
+    "target": "http://localhost:8080/LYT",
+    "secure": false
+  }
+}
