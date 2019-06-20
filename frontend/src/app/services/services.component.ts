@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ServicesComponent implements OnInit {
 
-  constructor(private router: Router) { }
+  constructor() { }
 
   ngOnInit() {
     window.scrollTo(0,0);
