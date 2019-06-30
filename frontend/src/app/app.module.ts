@@ -43,7 +43,7 @@ const appRoutes: Routes = [
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
-    NgbModule.forRoot(),
+    NgbModule,
     RouterModule.forRoot(appRoutes),
   ],
   providers: [],
